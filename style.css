@@ -1,0 +1,74 @@
+
+ .carousel-inner{
+     margin: 20px;
+     padding: 10px;
+ }
+
+
+.buy-now-bottom {
+    background-color: black;
+    color:#fff;
+    border: none;
+    border-radius:8px ;
+    padding: 9px 25px;
+    cursor: pointer;
+ }
+ p{
+     color:dimgray;
+ }
+
+ ol li{
+    background-color: #FFCE1A !important;
+    font-size: 10px;
+    margin: 5px;
+    padding: 2px;
+  
+ }
+ .code{
+     color: #FFBE57;
+     margin-top:  5%;
+ }
+ h4{
+     margin-bottom: 10%;
+ }
+ .h5, .h5, .h5{
+     background-color: black;
+ }
+ .cat{
+     margin-bottom: 5%;
+ }
+ .sagor{
+     margin-bottom: 5%;
+ }
+.card{
+    border-radius: 15px;
+  box-shadow: whitesmoke;
+    border: 1px solid white;
+}
+.card-body{
+    padding: 30px 60px; 
+}
+ .khali{
+    font-size: 20%;
+    margin: 0px;
+    padding: 5px;
+ }
+ .carousel-item{
+     padding: 40px 60px;
+ }
+
+.footerbanner{
+    height: 100%;
+    width: 100%;
+}
+.bag-title{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 65%;
+    margin-left: 22%;
+
+}
+.bag-img{
+    position: relative;
+}
